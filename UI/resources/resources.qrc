@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="Person">
+    <file>Person.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>CIC-IPN.jpg</file>
+    <file>LOGO_IPN.jpg</file>
+  </qresource>
+  <qresource prefix="Window">
+    <file>Config.png</file>
+    <file>Exit.png</file>
+  </qresource>
+  <qresource prefix="Temp">
+    <file>TempGreen.png</file>
+    <file>TempRed.png</file>
+    <file>TempYellow.png</file>
+  </qresource>
+  <qresource prefix="Stream">
+    <file>STATIC.png</file>
+  </qresource>
+</RCC>
